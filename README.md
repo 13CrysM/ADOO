@@ -1,1 +1,6 @@
-# Proyecto Final
+# Planteamiento de proyecto
+
+* La licenciada en nutrición Chantal Y. Badillo, requiere un sistema que le permita a sus pacientes, solicitar un menú semanal que satisfaga sus requerimientos nutrimentales y se adapte a las actividades que desarrollan sus pacientes, sin dejar toman en cuante su economía, creencias, patologías y/o gustos, hábitos y preferencias alimenticias.  
+* Ella propone un sistema a lo que entendemos como responsivo, el cual sea una plataforma o aplicación web, la cual ofrezca los servicios de consulta nutricional y la venta de un menú semanal que cambie semana a semana. Se describe el sistema de la siguiente manera. Los pacientes después de ser valorados nutricionalmente pueden elegir su menú semanalmente, es decir: el sistema les tiene que mostrar diferentes platillos, ellos elegirán para cuantos días quieren adquirir los alimentos y cuales, nosotros tomando en base sus requerimientos nutrimentales obtenidos en su previa consulta, deberemos de ser capaz de preparar las porciones indicadas en su dieta y adaptarlas a sus necesidades.  
+* Ella hace énfasis en que la idea surge de que muchos de sus pacientes le comentan que no tienen tiempo de preparar sus alimentos o no tienen tiempo suficiente para comer, que sus menús a pesar de ser muy fáciles y prácticos requieren mas que nada tiempo por eso muchas veces terminan abandonado el régimen de alimentación.  
+El modelo de negocio está basado en la distribución semanal de alimentos (Consulta nutricional, preparación de alimentos y distribución).
